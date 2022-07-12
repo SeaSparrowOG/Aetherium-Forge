@@ -56,6 +56,7 @@ i. You now have everything you need to install the Aetherium Forge. Download the
   
 ii. Go to Wabbajack.org and download the Wabbajack executable. Move it to a folder of your choosing, outside of the common folders.
 Recommendation: Move it to C:\Wabbajack
+
 iii. Run the Wabbajack executable so it can update.
   
 iv. Close the Wabbajack executable.
