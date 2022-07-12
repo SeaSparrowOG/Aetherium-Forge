@@ -14,9 +14,10 @@ https://github.com/LostDragonist/steam-library-setup-tool/releases
 ii. It is strongly recommended that you use an archive program, like 7zip or Winrar. I recommend 7zip, since it's free.
 
 
-Installation
 
-Part 1 - Clean Skyrim Install
+# Installation
+
+# Part 1 - Clean Skyrim Install
 
 i. Navigate to <Steam>\steamapps\common and delete the "Skyrim Special Edition" folder.
   
@@ -32,7 +33,7 @@ v. Install Skyrim. Make SURE that you are not installing in Program Files or Pro
 Optional i. Navigate to where you installed Skyrim and pin the folder to your quick access ribbon.
   
 
-Part 2 - Installing the Creation Kit
+# Part 2 - Installing the Creation Kit
   
 i. Open Steam. Go to your Library.
   
@@ -49,7 +50,7 @@ vi. Right click it, and press "Run as Administrator". This is necessary.
 vii. If a window pops up saying that the Scripts folder is new and asks you to unpack it, press yes. This takes a few minutes.
   
       
-Part 3 - Installing the List
+# Part 3 - Installing the List
     
 i. You now have everything you need to install the Aetherium Forge. Download the Aetherium Forge.Wabbajack file from this repository.
   
